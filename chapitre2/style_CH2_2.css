@@ -1,0 +1,75 @@
+body{
+    font-family:"Courier New";
+    font-size:12px;
+    text-align:justify;
+}
+
+h1{
+    font-family:Arial;
+    font-size:20px;
+    color:red;
+    text-align:center;
+    background-color: #ffff44;
+}
+
+.a1 {
+    font-family: Arial;
+    font-size: 16px;
+    color: purple;
+    text-align: center;
+    margin-top: 20px;
+
+}
+.a2{
+    font-family: Arial;
+    font-size: 16px;
+    color: purple;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.a3{
+    font-family: Arial;
+    font-size:11px;
+    text-indent:20px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+.a4{
+    font-family: Arial;
+    font-size: 15px;
+    color:blue;
+    font-weight: bold;
+}
+.a5{
+    font-family: "Times New Roman";
+    font-size:12px;
+    font-style: italic;
+    margin-left:37.8px;
+    margin-right:37.8px;
+    margin-top:10px;
+    margin-bottom:20px;
+}
+h3{
+    font-size:13px;
+    text-decoration:underline ;
+}
+.a6{
+    text-indent: 12px;
+    margin-top:10px;
+    margin-bottom:20px;
+
+}
+.a7{
+    font-family: "Times New Roman";
+    font-size:12px;
+    font-style: italic;
+    text-indent:10px;
+    margin-top:10px;
+    margin-bottom:20px
+}
+.a8{
+    text-indent: 0px;
+    margin-top: 10px;
+    margin-bottom:20px;
+    color: #3dc3ef;
+}
