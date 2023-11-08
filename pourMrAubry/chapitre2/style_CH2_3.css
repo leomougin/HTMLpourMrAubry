@@ -1,0 +1,13 @@
+body{
+    background-image: url("feuilles.png");
+    color:white;
+}
+h1{
+    color:purple;
+}
+.pinguin{
+    background-image: url("pingouin.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top;
+}
